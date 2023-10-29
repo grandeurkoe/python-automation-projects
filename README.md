@@ -34,7 +34,7 @@ The automation process performs the following operation:
 
 ![LinkedIn Job Application](automated-job-application/automated-job-application.gif)
 
-### Day 049 - Tinder Swiping Bot
+### Day 050 - Tinder Swiping Bot
 
 This project automates the swiping process on Tinder using the selenium package.
 
@@ -50,3 +50,18 @@ The automation process performs the following operation:
 9. Swipe "Nope" a 100 times.
 
 ![Tinder Swiping Bot](auto-tinder-swiping-bot/auto-tinder-swiping-bot.gif)
+
+### Day 051 - Internet Speed Twitter Complaint Bot
+
+This project automates the process of fetching UP/DOWN speed from the [Speed Test](https://www.speedtest.net/) website and posts a complaint tweet on [Twitter](https://twitter.com) (If the ISP fails to fulfill it's UP/DOWN speed promise.) using the selenium package.
+
+The automation process performs the following operation:
+1. Navigate to the [Speed Test](https://www.speedtest.net/) website.
+2. Click "GO" button.
+3. Get and store UP/DOWN speed.
+4. Navigate to the [Twitter](https://twitter.com/i/flow/login?lang=en) website.
+5. Login to Twitter.
+6. If stored UP/DOWN from step (3) is less than the promised speed, then generate a complaint tweet.
+7. Click "Post" button.
+
+![Internet Speed Twitter Complaint Bot](internet-speed-twitter-complaint-bot/internet-speed-twitter-complaint-bot.gif)
