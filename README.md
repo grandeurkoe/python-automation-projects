@@ -8,7 +8,7 @@ Each project has been built from scratch with minimal to no assistance.<br/>
 
 This project automates the Cookie Clicker game using the selenium package.
 
-The automation process performs the following operation:
+Steps in the automation process:
 1. Navigate to the [Cookie Clicker](https://orteil.dashnet.org/experiments/cookie/) website.
 2. Click 🍪 every few seconds (You can set this yourself).
 3. Check for any ungrayed upgrades.
@@ -21,7 +21,7 @@ The automation process performs the following operation:
 
 This project automates the job application process on LinkedIn using the selenium package.
 
-The automation process performs the following operation:
+Steps in the automation process:
 1. Navigate to the [LinkedIn](https://in.linkedin.com/) website.
 2. Sign in to LinkedIn.
 3. Search for "python developer" job listings.
@@ -38,7 +38,7 @@ The automation process performs the following operation:
 
 This project automates the swiping process on Tinder using the selenium package.
 
-The automation process performs the following operation:
+Steps in the automation process:
 1. Navigate to the [Tinder](https://tinder.com/) website.
 2. Click "Log in" button.
 3. Click "Log in with Facebook" button.
@@ -55,13 +55,13 @@ The automation process performs the following operation:
 
 This project automates the process of fetching UP/DOWN speed from the [Speed Test](https://www.speedtest.net/) website and posts a complaint tweet on [Twitter](https://twitter.com) (If the ISP fails to fulfill it's UP/DOWN speed promise.) using the selenium package.
 
-The automation process performs the following operation:
+Steps in the automation process:
 1. Navigate to the [Speed Test](https://www.speedtest.net/) website.
 2. Click "GO" button.
 3. Get and store UP/DOWN speed.
 4. Navigate to the [Twitter](https://twitter.com/i/flow/login?lang=en) website.
 5. Login to Twitter.
-6. If stored UP/DOWN from step (3) is less than the promised speed, then generate a complaint tweet.
+6. If stored UP/DOWN speed from step (3) is less than promised speed, then generate a complaint tweet.
 7. Click "Post" button.
 
 ![Internet Speed Twitter Complaint Bot](internet-speed-twitter-complaint-bot/internet-speed-twitter-complaint-bot.gif)
