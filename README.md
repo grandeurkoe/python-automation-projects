@@ -13,7 +13,7 @@ Steps in the automation process:
 2. Click 🍪 every few seconds (You can set this yourself).
 3. Check for any ungrayed upgrades.
 4. Click on the cheapest upgrade.
-5. Repeat steps 2 to 4 for 5 minutes.
+5. Repeat steps (2) to (4) for 5 minutes.
 
 ![Cookie Clicker](automated-cookie-clicker/automated-cookie-clicker.gif)
 
@@ -30,7 +30,7 @@ Steps in the automation process:
 6. Click on job.
 7. Save job.
 8. Follow company.
-9. Repeat steps 6 to 8 until there are no more jobs left to click on.
+9. Repeat steps (6) to (8) until there are no more jobs left to click on.
 
 ![LinkedIn Job Application](automated-job-application/automated-job-application.gif)
 
@@ -65,3 +65,19 @@ Steps in the automation process:
 7. Click "Post" button.
 
 ![Internet Speed Twitter Complaint Bot](internet-speed-twitter-complaint-bot/internet-speed-twitter-complaint-bot.gif)
+
+### Day 052 - Instagram Follower Bot 	
+
+This project automates the process of following everyone who follows a certain instagram account. This is done using the selenium package.
+
+Steps in the automation process:
+1. Navigate to the [Instagram](https://www.instagram.com/) website.
+2. Login to Instagram.
+3. Click 🔍 button. 
+4. Search for "chefsteps".
+5. Click on button with "followers" as a partial link text.
+6. Navigate to instagram account.
+7. Click "Follow" button.
+8. Repeat steps (6) and  (7) until there are no more instagram account left to follow.
+
+![Instagram Follower Bot](instagram-follower-bot/instagram-follower-bot.gif)
