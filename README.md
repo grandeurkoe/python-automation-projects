@@ -33,3 +33,20 @@ The automation process performs the following operation:
 9. Repeat steps 6 to 8 until there are no more jobs left to click on.
 
 ![LinkedIn Job Application](automated-job-application/automated-job-application.gif)
+
+### Day 049 - Tinder Swiping Bot
+
+This project automates the swiping process on Tinder using the selenium package.
+
+The automation process performs the following operation:
+1. Navigate to the [Tinder](https://tinder.com/) website.
+2. Click "Log in" button.
+3. Click "Log in with Facebook" button.
+4. Switch to the Facebook login window.
+5. Login to Facebook.
+6. Switch back to the Tinder window.
+7. Click "Allow" button to give location access to Tinder.
+8. Click "Enable" button to enable notifications for your Tinder profile. 
+9. Swipe "Nope" a 100 times.
+
+![Tinder Swiping Bot](auto-tinder-swiping-bot/auto-tinder-swiping-bot.gif)
