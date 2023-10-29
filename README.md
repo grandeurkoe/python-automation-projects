@@ -8,6 +8,13 @@ Each project has been built from scratch with minimal to no assistance.<br/>
 
 This project automates the Cookie Clicker game using the selenium package.
 
+The automation process performs the following operation:
+1. Navigate to the [Cookie Clicker](https://orteil.dashnet.org/experiments/cookie/) website.
+2. Click 🍪 every few seconds (You can set this yourself).
+3. Check for any ungrayed upgrades.
+4. Click on the cheapest upgrade.
+5. Repeat steps 2 to 4 for 5 minutes.
+
 ![Cookie Clicker](automated-cookie-clicker/automated-cookie-clicker.gif)
 
 ### Day 049 - LinkedIn Job Application
